@@ -1,0 +1,1 @@
+class PNG_LIB { ; }
